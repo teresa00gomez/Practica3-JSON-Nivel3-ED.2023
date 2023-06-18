@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>Carrer del Duc de Llíria, 81, 46160 Llíria, Valencia</direccion>
+    <geolocalizacion>
+      <latitud>39.629333</latitud>
+      <longitud>-0.600897</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Limones</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-09 al 2023-06-19</periodo_vigencia>
+        <unidades>6</unidades>
+        <unidad_medida>unidad</unidad_medida>
+        <precio>1.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Arroz bomba</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia></periodo_vigencia>
+        <unidades>1</unidades>
+        <unidad_medida>gramos</unidad_medida>
+        <precio>1.30</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Leche semidesnatada</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023/06/01 al 2023/07/01</periodo_vigencia>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>0.90</precio>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+
+  <supermercado>
+    <nombre>Consum</nombre>
+    <direccion>Carrer del Duc de Llíria, 69, 46160 Llíria, Valencia</direccion>
+    <geolocalizacion>
+      <latitud>39.629024</latitud>
+      <longitud>-0.599414</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Horchata</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia></periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>1.19</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Sandia</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023/06/15 al 2023/06/25</periodo_vigencia>
+        <unidades>1</unidades>
+        <unidad_medida>kilogramo</unidad_medida>
+        <precio>1.89</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Aceite de oliva</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023/06/10 al 2023/06/20</periodo_vigencia>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>5.40</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Calle Ue Sector ST-1, 38, 46160, Llíria, Valencia</direccion>
+    <geolocalizacion>
+      <latitud>39.620783</latitud>
+      <longitud>-0.587125</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Huevos L</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia></periodo_vigencia>
+        <unidades>6</unidades>
+        <unidad_medida>unidad</unidad_medida>
+        <precio>1.20</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Cacao soluble</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia></periodo_vigencia>
+        <unidades>1</unidades>
+        <unidad_medida>gramos</unidad_medida>
+        <precio>2.15</precio>
+        <adquirido>false</adquirido>
+      </producto>
+       <nombre>Zumo de naranja</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023/06/01 al 2023/06/19</periodo_vigencia>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>1.50</precio>
+        <adquirido>true</adquirido>
+    </productos>
+  </supermercado>
+
+</supermercados>

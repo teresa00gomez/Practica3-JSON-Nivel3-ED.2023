@@ -1,0 +1,111 @@
+{
+    "supermercados": [
+        {
+          "nombre": "Mercadona",
+          "direccion": "Carrer del Duc de Llíria, 81, 46160 Llíria, Valencia",
+          "geolocalizacion":{
+            "latitud": "39.629333",
+            "longitud": "-0.600897"
+          },
+          "productos":[
+            {
+                "nombre": "Limones",
+                "oferta": true,
+                "periodoVigencia": "2023/06/09 al 2023/06/19",
+                "precio": 1.99,
+                "unidades": 6,
+                "unidadMedida": "unidad",
+                "adquirido": false
+            },
+            {
+                "nombre": "Arroz bomba",
+                "oferta": false,
+                "precio": 1.30,
+                "unidades": 1,
+                "unidadMedida": "gramos",
+                "adquirido": true
+            },
+            {
+                "nombre": "Leche semidesnatada",
+                "oferta": true,
+                "periodoVigencia": "2023/06/01 al 2023/07/01",
+                "precio": 0.90,
+                "unidades": 1,
+                "unidadMedida": "litro",
+                "adquirido": true
+            }
+          ]
+        },
+        {
+            "nombre": "Consum",
+            "direccion": "Carrer del Duc de Llíria, 69, 46160 Llíria, Valencia",
+            "geolocalizacion":{
+              "latitud": "39.629024",
+              "longitud": "-0.599414"
+            },
+            "productos":[
+              {
+                  "nombre": "Horchata",
+                  "oferta": false,
+                  "precio": 1.19,
+                  "unidades": 1,
+                  "unidadMedida": "litro",
+                  "adquirido": true
+              },
+              {
+                  "nombre": "Sandia",
+                  "oferta": true,
+                  "periodoVigencia": "2023/06/15 al 2023/06/25",
+                  "precio": 1.89,
+                  "unidades": 1,
+                  "unidadMedida": "kilogramo",
+                  "adquirido": true
+              },
+              {
+                  "nombre": "Aceite de oliva",
+                  "oferta": true,
+                  "periodoVigencia": "2023/06/10 al 2023/06/20",
+                  "precio": 5.40,
+                  "unidades": 1,
+                  "unidadMedida": "litro",
+                  "adquirido": false
+              }
+            ]
+          },
+          {
+            "nombre": "Lidl",
+            "direccion": "Calle Ue Sector ST-1, 38, 46160, Llíria, Valencia",
+            "geolocalizacion":{
+              "latitud": "39.620783",
+              "longitud": "-0.587125"
+            },
+            "productos":[
+              {
+                  "nombre": "Huevos L",
+                  "oferta": false,
+                  "precio": 1.20,
+                  "unidades": 6,
+                  "unidadMedida": "unidad",
+                  "adquirido": true
+              },
+              {
+                  "nombre": "Cacao soluble",
+                  "oferta": false,
+                  "precio": 2.15,
+                  "unidades": 1,
+                  "unidadMedida": "gramos",
+                  "adquirido": false
+              },
+              {
+                  "nombre": "Zumo de naranja",
+                  "oferta": true,
+                  "periodoVigencia": "2023/06/01 al 2023/06/19",
+                  "precio": 1.50,
+                  "unidades": 1,
+                  "unidadMedida": "litro",
+                  "adquirido": true
+              }
+            ]
+          }
+    ]
+}
